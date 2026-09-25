@@ -23,7 +23,7 @@ The end goal is a lightweight, high-accuracy classifier suitable for deployment 
 
 | Attribute | Details |
 | :--- | :--- |
-| **Source** | `https://www.kaggle.com/datasets/salonipandagale/solar-panel-defect-classification-dl-project` |
+| **Source** | (https://www.kaggle.com/datasets/salonipandagale/solar-panel-defect-classification-dl-project/) |
 | **Total Images** | 885 |
 | **Classes (6)** | `Bird-drop`, `Clean`, `Dusty`, `Electrical-damage`, `Physical-Damage`, `Snow-Covered` |
 | **Train / Validation Split** | 80% / 20% (708 training images / 177 validation images) |
