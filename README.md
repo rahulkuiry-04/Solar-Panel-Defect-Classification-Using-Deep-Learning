@@ -15,7 +15,7 @@ The end goal is a lightweight, high-accuracy classifier suitable for deployment 
 
 
 ---
-🌐 **Live Web Application:** [Click here to view the Deployed App](https://your-deployment-link.com)
+🌐 **Live Web Application:** [Click here to view the Deployed App](https://solar-panel-defect-classification-using-deep-learning-7fdfmmxr.streamlit.app/)
 ---
 
 
