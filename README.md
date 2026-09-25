@@ -123,7 +123,7 @@ Solar_Panel_Dataset/
 ```bash
 jupyter notebook Solar_Panel_Defect_Classification.ipynb
 ```
-If running on **Google Colab**, mount your Google Drive when prompted and ensure `DATASET_DIR` points to the correct path (e.g., `/content/drive/MyDrive/Solar_Panel_Dataset`).
+
 
 ---
 
