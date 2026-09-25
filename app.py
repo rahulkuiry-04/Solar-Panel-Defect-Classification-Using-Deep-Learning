@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("☀️ Solar Panel Defect Classifier")
+st.title(" Solar Panel Defect Classifier")
 st.write("Upload an image of a solar panel to detect defects using your model")
 
 # Define model path pointing to the new 'models/' folder
